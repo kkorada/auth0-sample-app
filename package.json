@@ -14,7 +14,7 @@
     "angular-auth0": "^3.0.0",
     "auth0-js": "^9.11.2",
     "bootstrap": "^3.4.1",
-    "express": "^4.14.0"
+    "express": "^4.17.3"
   },
   "devDependencies": {
     "npm-check": "^5.5.2"
